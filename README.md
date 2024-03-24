@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<img align="left" height="400" src="https://i.pinimg.com/736x/be/a8/03/bea803c8bc81e9e7824ef74970e2e0f2.jpg"  style="z-index: 1;"/>
+<img align="left" height="300" src="https://i.pinimg.com/736x/be/a8/03/bea803c8bc81e9e7824ef74970e2e0f2.jpg"  />
 
 ###
 
@@ -14,13 +14,15 @@
 
 ###
 
-<h2 align="left" style="z-index:0;">About me 🙋🏻‍♂️</h2>
+<h3 align="left">About me 🙋🏻‍♂️</h3>
 
 ###
 
-<p align="left">📚 I'm currently learning Rust, Tauri and Angular.<br>🌱 I love learning about new technologies and constantly expanding my skills.<br>💻 I'm always searching educational resources to enhance my knowledge</p>
+<p align="left">- 📚 I'm currently learning Rust, Tauri and Angular.<br>- 🌱 I love learning about new technologies and constantly expanding my skills.<br>- 💻 I'm always searching educational resources to enhance my knowledge</p>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">I code with</h2>
 
