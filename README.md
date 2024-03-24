@@ -4,7 +4,9 @@
 
 ###
 
-<img align="right" height="400" src="https://i.pinimg.com/736x/be/a8/03/bea803c8bc81e9e7824ef74970e2e0f2.jpg"  />
+<br clear="both">
+
+<img align="left" height="400" src="https://i.pinimg.com/736x/be/a8/03/bea803c8bc81e9e7824ef74970e2e0f2.jpg"  />
 
 ###
 
