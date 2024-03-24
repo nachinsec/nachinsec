@@ -6,11 +6,7 @@
 
 <br clear="both">
 
-<img align="left" height="300" src="https://i.pinimg.com/736x/be/a8/03/bea803c8bc81e9e7824ef74970e2e0f2.jpg"  />
-
-###
-
-<p align="left">My name is Nacho Alcaraz and I'm a Software Developer, from Spain.</p>
+<img align="left" height="275" src="https://i.pinimg.com/736x/be/a8/03/bea803c8bc81e9e7824ef74970e2e0f2.jpg"  />
 
 ###
 
@@ -18,13 +14,13 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning Rust, Tauri and Angular.<br>- 🌱 I love learning about new technologies and constantly expanding my skills.<br>- 💻 I'm always searching educational resources to enhance my knowledge</p>
+<p align="left">- 👨🏻‍🦱 My name is Nacho Alcaraz and I'm Software Developer, from Spain.<br>- 📚 I'm currently learning Rust, Tauri and Angular.<br>- 🌱 I love learning about new technologies and constantly expanding my skills.<br>- 💻 I'm always searching educational resources to enhance my knowledge</p>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with 🖥️</h2>
 
 ###
 
@@ -50,6 +46,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h2 align="left">Social Media 👥</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
