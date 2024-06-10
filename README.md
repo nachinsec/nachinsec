@@ -26,7 +26,7 @@
 
 <div align="left">
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg" height="40" alt="materialize logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/tailwindcss-original.svg" height="40" alt="materialize logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
