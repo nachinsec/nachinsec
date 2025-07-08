@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 👨🏻‍🦱 My name is Nacho Alcaraz and I'm Software Developer, from Spain.<br>- 📚 I'm currently learning Rust and React.<br>- 🌱 I love learning about new technologies and constantly expanding my skills.<br>- 💻 I'm always searching educational resources to enhance my knowledge</p>
+<p align="left">- 👨🏻‍🦱 My name is Nacho Alcaraz and I'm Software Developer, from Spain.<br>- 📚 I'm currently learning Rust.<br>- 🌱 I love learning about new technologies and constantly expanding my skills.<br>- 💻 I'm always searching educational resources to enhance my knowledge</p>
 
 ###
 
