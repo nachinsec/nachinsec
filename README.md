@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey what's up? 👋</h1>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="center">💻 PROGRAMMING LANGUAGES</h4>
+<h4 align="center">💻 PROGRAMMING LANGUAGES & DATABASES</h4>
 
 ###
 
