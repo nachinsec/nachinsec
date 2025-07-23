@@ -83,8 +83,6 @@
   <img width="6" />
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="20" alt="vite logo"  />
   <img width="6" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="20" alt="linux logo"  />
-  <img width="6" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="20" alt="git logo"  />
   <img width="6" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="20" alt="firebase logo"  />
